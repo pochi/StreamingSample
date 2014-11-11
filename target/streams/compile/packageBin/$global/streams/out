@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /opt/local/repos/spark/streaming/target/scala-2.10/socket-project_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SocketStreaming$.class[0m
+[0m[[0mdebug[0m] [0m	  /opt/local/repos/spark/streaming/target/scala-2.10/classes/SocketStreaming$.class[0m
+[0m[[0mdebug[0m] [0m	SocketStreaming$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /opt/local/repos/spark/streaming/target/scala-2.10/classes/SocketStreaming$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	SocketStreaming$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /opt/local/repos/spark/streaming/target/scala-2.10/classes/SocketStreaming$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	SocketStreaming$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /opt/local/repos/spark/streaming/target/scala-2.10/classes/SocketStreaming$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	SocketStreaming.class[0m
+[0m[[0mdebug[0m] [0m	  /opt/local/repos/spark/streaming/target/scala-2.10/classes/SocketStreaming.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
